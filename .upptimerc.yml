@@ -11,7 +11,9 @@ sites:
     url: https://ip.joylian.com
   - name: Pan
     url: https://pan.joylian.com
-
+  - name: Run
+    url: https://run.joylian.com  
+    
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there

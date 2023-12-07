@@ -1,7 +1,7 @@
 url: https://hbo.joylian.com
-status: up
-code: 200
-responseTime: 307
-lastUpdated: 2023-12-07T23:10:47.508Z
+status: down
+code: 502
+responseTime: 445
+lastUpdated: 2023-12-07T23:13:03.106Z
 startTime: 2023-12-04T00:49:29.062Z
 generator: Upptime <https://github.com/upptime/upptime>

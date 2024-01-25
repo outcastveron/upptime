@@ -24,19 +24,19 @@
     "url": "https://hbo.joylian.com",
     "icon": "https://icons.duckduckgo.com/ip3/hbo.joylian.com.ico",
     "slug": "media",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "98.80%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.98%",
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "96.05%",
+    "uptimeWeek": "99.44%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.92%",
     "time": 385,
-    "timeDay": 465,
-    "timeWeek": 425,
+    "timeDay": 437,
+    "timeWeek": 420,
     "timeMonth": 394,
     "timeYear": 385,
     "dailyMinutesDown": {
-      "2024-01-25": 17
+      "2024-01-25": 57
     }
   },
   {

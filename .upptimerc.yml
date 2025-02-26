@@ -5,8 +5,8 @@ repo: upptime # The name of this repository
 sites:
   - name: Joylian
     url: https://www.joylian.com
-  - name: Media
-    url: https://hbo.joylian.com
+  - name: Tvbox
+    url: https://v.joylian.com
   - name: IP
     url: https://ip.joylian.com
   - name: Pan

@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 193,
-    "timeDay": 216,
-    "timeWeek": 267,
-    "timeMonth": 259,
+    "timeDay": 189,
+    "timeWeek": 271,
+    "timeMonth": 251,
     "timeYear": 202,
     "dailyMinutesDown": {
       "2024-08-13": 159
@@ -25,19 +25,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/v.joylian.com.ico",
     "slug": "tvbox",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 636,
-    "timeDay": 562,
-    "timeWeek": 556,
-    "timeMonth": 636,
-    "timeYear": 636,
-    "dailyMinutesDown": {
-      "2025-03-11": 7
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 631,
+    "timeDay": 554,
+    "timeWeek": 541,
+    "timeMonth": 631,
+    "timeYear": 631,
+    "dailyMinutesDown": {}
   },
   {
     "name": "IP",
@@ -51,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 148,
-    "timeDay": 167,
-    "timeWeek": 186,
-    "timeMonth": 175,
+    "timeDay": 129,
+    "timeWeek": 178,
+    "timeMonth": 173,
     "timeYear": 152,
     "dailyMinutesDown": {}
   },
@@ -69,9 +67,9 @@
     "uptimeMonth": "88.56%",
     "uptimeYear": "82.70%",
     "time": 632,
-    "timeDay": 505,
-    "timeWeek": 535,
-    "timeMonth": 667,
+    "timeDay": 527,
+    "timeWeek": 529,
+    "timeMonth": 665,
     "timeYear": 618,
     "dailyMinutesDown": {
       "2025-02-16": 205,
@@ -164,9 +162,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 143,
-    "timeDay": 116,
-    "timeWeek": 159,
-    "timeMonth": 165,
+    "timeDay": 146,
+    "timeWeek": 161,
+    "timeMonth": 164,
     "timeYear": 147,
     "dailyMinutesDown": {
       "2024-08-13": 159

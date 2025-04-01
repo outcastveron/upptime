@@ -66,7 +66,7 @@
     "url": "https://pan.joylian.com",
     "icon": "https://icons.duckduckgo.com/ip3/pan.joylian.com.ico",
     "slug": "pan",
-    "status": "up",
+    "status": "down",
     "uptime": "86.92%",
     "uptimeDay": "95.19%",
     "uptimeWeek": "98.79%",
@@ -78,6 +78,7 @@
     "timeMonth": 2015,
     "timeYear": 832,
     "dailyMinutesDown": {
+      "2025-04-01": 0,
       "2025-03-31": 70,
       "2025-03-28": 36,
       "2025-03-26": 17,

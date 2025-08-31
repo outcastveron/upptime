@@ -4,18 +4,20 @@
     "url": "https://www.joylian.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.joylian.com.ico",
     "slug": "joylian",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 233,
-    "timeDay": 456,
-    "timeWeek": 404,
-    "timeMonth": 337,
+    "time": 234,
+    "timeDay": 358,
+    "timeWeek": 386,
+    "timeMonth": 335,
     "timeYear": 255,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-31": 0
+    }
   },
   {
     "name": "Tvbox",
@@ -31,7 +33,7 @@
     "time": 2370,
     "timeDay": 389,
     "timeWeek": 2822,
-    "timeMonth": 1950,
+    "timeMonth": 1944,
     "timeYear": 2370,
     "dailyMinutesDown": {
       "2025-08-13": 22,
@@ -98,15 +100,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/pan.joylian.com.ico",
     "slug": "pan",
     "status": "up",
-    "uptime": "89.90%",
+    "uptime": "89.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.67%",
-    "uptimeYear": "87.64%",
+    "uptimeYear": "87.82%",
     "time": 1339,
     "timeDay": 513,
     "timeWeek": 2771,
-    "timeMonth": 1799,
+    "timeMonth": 1817,
     "timeYear": 1465,
     "dailyMinutesDown": {
       "2025-08-13": 22,
@@ -211,17 +213,19 @@
     "url": "https://run.joylian.com",
     "icon": "https://icons.duckduckgo.com/ip3/run.joylian.com.ico",
     "slug": "run",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 161,
-    "timeDay": 98,
-    "timeWeek": 212,
-    "timeMonth": 219,
+    "timeDay": 183,
+    "timeWeek": 219,
+    "timeMonth": 220,
     "timeYear": 166,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-31": 0
+    }
   }
 ]

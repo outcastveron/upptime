@@ -6,18 +6,16 @@
     "slug": "joylian",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 243,
     "timeDay": 325,
     "timeWeek": 259,
     "timeMonth": 274,
     "timeYear": 263,
-    "dailyMinutesDown": {
-      "2025-09-29": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Tvbox",
@@ -112,7 +110,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.67%",
-    "uptimeYear": "95.73%",
+    "uptimeYear": "95.75%",
     "time": 1485,
     "timeDay": 633,
     "timeWeek": 596,
@@ -185,8 +183,7 @@
       "2024-10-04": 1440,
       "2024-10-03": 1440,
       "2024-10-02": 1440,
-      "2024-10-01": 1440,
-      "2024-09-30": 1440
+      "2024-10-01": 1440
     }
   },
   {
@@ -196,17 +193,15 @@
     "slug": "run",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 167,
     "timeDay": 263,
     "timeWeek": 200,
     "timeMonth": 210,
     "timeYear": 172,
-    "dailyMinutesDown": {
-      "2025-09-29": 6
-    }
+    "dailyMinutesDown": {}
   }
 ]

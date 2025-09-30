@@ -4,18 +4,20 @@
     "url": "https://www.joylian.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.joylian.com.ico",
     "slug": "joylian",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 243,
-    "timeDay": 325,
-    "timeWeek": 259,
-    "timeMonth": 274,
+    "timeDay": 306,
+    "timeWeek": 258,
+    "timeMonth": 273,
     "timeYear": 263,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-30": 0
+    }
   },
   {
     "name": "Tvbox",
@@ -24,9 +26,9 @@
     "slug": "tvbox",
     "status": "up",
     "uptime": "99.14%",
-    "uptimeDay": "97.52%",
-    "uptimeWeek": "99.65%",
-    "uptimeMonth": "97.21%",
+    "uptimeDay": "97.90%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "97.23%",
     "uptimeYear": "99.14%",
     "time": 3798,
     "timeDay": 8180,
@@ -34,7 +36,7 @@
     "timeMonth": 7830,
     "timeYear": 3798,
     "dailyMinutesDown": {
-      "2025-09-30": 35,
+      "2025-09-30": 30,
       "2025-09-19": 25,
       "2025-09-17": 46,
       "2025-09-16": 236,
@@ -111,7 +113,7 @@
     "uptimeDay": "97.95%",
     "uptimeWeek": "99.71%",
     "uptimeMonth": "98.60%",
-    "uptimeYear": "95.90%",
+    "uptimeYear": "95.93%",
     "time": 1510,
     "timeDay": 6887,
     "timeWeek": 2689,
@@ -193,17 +195,19 @@
     "url": "https://run.joylian.com",
     "icon": "https://icons.duckduckgo.com/ip3/run.joylian.com.ico",
     "slug": "run",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 167,
-    "timeDay": 263,
-    "timeWeek": 200,
-    "timeMonth": 210,
+    "timeDay": 241,
+    "timeWeek": 198,
+    "timeMonth": 209,
     "timeYear": 172,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-30": 0
+    }
   }
 ]

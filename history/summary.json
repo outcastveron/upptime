@@ -109,11 +109,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/pan.joylian.com.ico",
     "slug": "pan",
     "status": "up",
-    "uptime": "90.31%",
+    "uptime": "90.32%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.71%",
     "uptimeMonth": "98.60%",
-    "uptimeYear": "96.27%",
+    "uptimeYear": "96.29%",
     "time": 1510,
     "timeDay": 478,
     "timeWeek": 2681,
@@ -185,8 +185,7 @@
       "2024-10-06": 1440,
       "2024-10-05": 1440,
       "2024-10-04": 1440,
-      "2024-10-03": 1440,
-      "2024-10-02": 1440
+      "2024-10-03": 1440
     }
   },
   {
@@ -196,9 +195,9 @@
     "slug": "run",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 170,
     "timeDay": 423,
@@ -206,7 +205,6 @@
     "timeMonth": 234,
     "timeYear": 176,
     "dailyMinutesDown": {
-      "2025-10-01": 6,
       "2025-09-30": 18
     }
   }

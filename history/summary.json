@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 248,
-    "timeDay": 242,
-    "timeWeek": 258,
-    "timeMonth": 274,
-    "timeYear": 266,
+    "time": 249,
+    "timeDay": 428,
+    "timeWeek": 289,
+    "timeMonth": 279,
+    "timeYear": 267,
     "dailyMinutesDown": {
       "2025-09-30": 18
     }
@@ -28,13 +28,13 @@
     "uptime": "99.20%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.27%",
+    "uptimeMonth": "99.77%",
     "uptimeYear": "99.20%",
-    "time": 3695,
-    "timeDay": 614,
-    "timeWeek": 560,
-    "timeMonth": 5707,
-    "timeYear": 3695,
+    "time": 3689,
+    "timeDay": 567,
+    "timeWeek": 565,
+    "timeMonth": 2460,
+    "timeYear": 3689,
     "dailyMinutesDown": {
       "2025-09-30": 30,
       "2025-09-19": 25,
@@ -97,9 +97,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 183,
-    "timeDay": 121,
-    "timeWeek": 181,
-    "timeMonth": 201,
+    "timeDay": 192,
+    "timeWeek": 178,
+    "timeMonth": 196,
     "timeYear": 194,
     "dailyMinutesDown": {}
   },
@@ -109,16 +109,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/pan.joylian.com.ico",
     "slug": "pan",
     "status": "up",
-    "uptime": "90.51%",
+    "uptime": "90.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "98.54%",
     "time": 1511,
-    "timeDay": 615,
-    "timeWeek": 526,
-    "timeMonth": 1759,
-    "timeYear": 1660,
+    "timeDay": 579,
+    "timeWeek": 534,
+    "timeMonth": 1252,
+    "timeYear": 1662,
     "dailyMinutesDown": {
       "2025-09-30": 30,
       "2025-09-19": 23,
@@ -176,8 +176,7 @@
       "2024-11-04": 15,
       "2024-10-22": 16,
       "2024-10-21": 17,
-      "2024-10-19": 18,
-      "2024-10-17": 17
+      "2024-10-19": 18
     }
   },
   {
@@ -192,10 +191,10 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 174,
-    "timeDay": 307,
-    "timeWeek": 204,
-    "timeMonth": 235,
-    "timeYear": 180,
+    "timeDay": 362,
+    "timeWeek": 217,
+    "timeMonth": 239,
+    "timeYear": 181,
     "dailyMinutesDown": {
       "2025-09-30": 18
     }

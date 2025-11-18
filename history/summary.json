@@ -95,19 +95,19 @@
     "url": "https://ip.joylian.com",
     "icon": "https://icons.duckduckgo.com/ip3/ip.joylian.com.ico",
     "slug": "ip",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "89.02%",
-    "uptimeWeek": "98.43%",
-    "uptimeMonth": "99.64%",
+    "uptimeDay": "87.92%",
+    "uptimeWeek": "98.27%",
+    "uptimeMonth": "99.60%",
     "uptimeYear": "99.97%",
     "time": 184,
-    "timeDay": 167,
-    "timeWeek": 174,
-    "timeMonth": 171,
+    "timeDay": 177,
+    "timeWeek": 179,
+    "timeMonth": 173,
     "timeYear": 196,
     "dailyMinutesDown": {
-      "2025-11-18": 158
+      "2025-11-18": 174
     }
   },
   {

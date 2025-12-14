@@ -4,9 +4,9 @@
     "url": "https://www.joylian.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.joylian.com.ico",
     "slug": "joylian",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -14,8 +14,9 @@
     "timeDay": 2781,
     "timeWeek": 2385,
     "timeMonth": 2376,
-    "timeYear": 538,
+    "timeYear": 539,
     "dailyMinutesDown": {
+      "2025-12-14": 0,
       "2025-10-28": 20,
       "2025-09-30": 18
     }
@@ -33,7 +34,7 @@
     "uptimeYear": "99.30%",
     "time": 3679,
     "timeDay": 594,
-    "timeWeek": 3094,
+    "timeWeek": 607,
     "timeMonth": 1198,
     "timeYear": 3679,
     "dailyMinutesDown": {
@@ -116,14 +117,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/pan.joylian.com.ico",
     "slug": "pan",
     "status": "up",
-    "uptime": "91.25%",
+    "uptime": "91.26%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.70%",
     "uptimeYear": "98.55%",
     "time": 1542,
     "timeDay": 584,
-    "timeWeek": 3078,
+    "timeWeek": 548,
     "timeMonth": 1129,
     "timeYear": 1743,
     "dailyMinutesDown": {
@@ -189,9 +190,9 @@
     "url": "https://run.joylian.com",
     "icon": "https://icons.duckduckgo.com/ip3/run.joylian.com.ico",
     "slug": "run",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -201,6 +202,7 @@
     "timeMonth": 889,
     "timeYear": 290,
     "dailyMinutesDown": {
+      "2025-12-14": 0,
       "2025-10-28": 20,
       "2025-09-30": 18
     }

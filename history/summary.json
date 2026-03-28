@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.98%",
-    "time": 828,
-    "timeDay": 2047,
-    "timeWeek": 2424,
-    "timeMonth": 2307,
-    "timeYear": 1082,
+    "time": 832,
+    "timeDay": 2266,
+    "timeWeek": 2344,
+    "timeMonth": 2313,
+    "timeYear": 1087,
     "dailyMinutesDown": {
       "2026-02-28": 33,
       "2025-12-22": 18,
@@ -33,11 +33,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.36%",
-    "time": 3324,
-    "timeDay": 434,
-    "timeWeek": 534,
-    "timeMonth": 579,
-    "timeYear": 3479,
+    "time": 3320,
+    "timeDay": 627,
+    "timeWeek": 527,
+    "timeMonth": 581,
+    "timeYear": 3487,
     "dailyMinutesDown": {
       "2026-02-21": 64,
       "2026-02-09": 325,
@@ -90,8 +90,7 @@
       "2025-04-11": 19,
       "2025-04-05": 17,
       "2025-04-04": 33,
-      "2025-03-31": 47,
-      "2025-03-28": 58
+      "2025-03-31": 47
     }
   },
   {
@@ -105,11 +104,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 211,
-    "timeDay": 95,
-    "timeWeek": 174,
+    "time": 212,
+    "timeDay": 243,
+    "timeWeek": 182,
     "timeMonth": 184,
-    "timeYear": 229,
+    "timeYear": 230,
     "dailyMinutesDown": {
       "2025-11-18": 174
     }
@@ -120,16 +119,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/pan.joylian.com.ico",
     "slug": "pan",
     "status": "up",
-    "uptime": "92.31%",
+    "uptime": "92.32%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.55%",
     "time": 1701,
-    "timeDay": 483,
-    "timeWeek": 516,
-    "timeMonth": 558,
-    "timeYear": 1776,
+    "timeDay": 498,
+    "timeWeek": 510,
+    "timeMonth": 554,
+    "timeYear": 1778,
     "dailyMinutesDown": {
       "2026-02-05": 42,
       "2025-12-29": 18,
@@ -174,8 +173,7 @@
       "2025-04-04": 83,
       "2025-04-03": 17,
       "2025-04-01": 60,
-      "2025-03-31": 70,
-      "2025-03-28": 36
+      "2025-03-31": 70
     }
   },
   {
@@ -189,11 +187,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.98%",
-    "time": 389,
-    "timeDay": 850,
-    "timeWeek": 750,
-    "timeMonth": 885,
-    "timeYear": 486,
+    "time": 390,
+    "timeDay": 442,
+    "timeWeek": 692,
+    "timeMonth": 879,
+    "timeYear": 487,
     "dailyMinutesDown": {
       "2026-02-28": 33,
       "2025-12-22": 18,

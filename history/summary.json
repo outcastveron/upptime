@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 920,
-    "timeDay": 2295,
-    "timeWeek": 2061,
-    "timeMonth": 2221,
-    "timeYear": 1210,
+    "time": 923,
+    "timeDay": 2140,
+    "timeWeek": 2147,
+    "timeMonth": 2205,
+    "timeYear": 1214,
     "dailyMinutesDown": {
       "2026-02-28": 33,
       "2025-12-22": 18,
@@ -34,10 +34,10 @@
     "uptimeMonth": "97.75%",
     "uptimeYear": "99.28%",
     "time": 3477,
-    "timeDay": 505,
-    "timeWeek": 2564,
-    "timeMonth": 2064,
-    "timeYear": 3750,
+    "timeDay": 419,
+    "timeWeek": 2547,
+    "timeMonth": 2060,
+    "timeYear": 3775,
     "dailyMinutesDown": {
       "2026-04-21": 133,
       "2026-04-10": 73,
@@ -82,8 +82,7 @@
       "2025-05-31": 18,
       "2025-05-24": 36,
       "2025-05-12": 19,
-      "2025-05-01": 43,
-      "2025-04-24": 38
+      "2025-05-01": 43
     }
   },
   {
@@ -98,9 +97,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 215,
-    "timeDay": 167,
-    "timeWeek": 201,
-    "timeMonth": 195,
+    "timeDay": 189,
+    "timeWeek": 191,
+    "timeMonth": 194,
     "timeYear": 221,
     "dailyMinutesDown": {
       "2025-11-18": 174
@@ -112,16 +111,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/pan.joylian.com.ico",
     "slug": "pan",
     "status": "up",
-    "uptime": "92.55%",
+    "uptime": "92.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.68%",
-    "time": 1720,
-    "timeDay": 571,
-    "timeWeek": 529,
-    "timeMonth": 512,
-    "timeYear": 1763,
+    "time": 1717,
+    "timeDay": 364,
+    "timeWeek": 512,
+    "timeMonth": 505,
+    "timeYear": 1773,
     "dailyMinutesDown": {
       "2026-04-02": 58,
       "2026-02-05": 42,
@@ -151,8 +150,7 @@
       "2025-05-12": 18,
       "2025-05-03": 54,
       "2025-05-01": 58,
-      "2025-04-25": 122,
-      "2025-04-24": 22
+      "2025-04-25": 122
     }
   },
   {
@@ -166,11 +164,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 418,
-    "timeDay": 832,
-    "timeWeek": 805,
-    "timeMonth": 791,
-    "timeYear": 527,
+    "time": 419,
+    "timeDay": 447,
+    "timeWeek": 794,
+    "timeMonth": 788,
+    "timeYear": 528,
     "dailyMinutesDown": {
       "2026-02-28": 33,
       "2025-12-22": 18,

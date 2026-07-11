@@ -99,17 +99,17 @@
     "url": "https://pan.joylian.com",
     "icon": "https://icons.duckduckgo.com/ip3/pan.joylian.com.ico",
     "slug": "pan",
-    "status": "down",
-    "uptime": "93.15%",
-    "uptimeDay": "74.57%",
-    "uptimeWeek": "96.37%",
-    "uptimeMonth": "99.16%",
-    "uptimeYear": "99.69%",
+    "status": "up",
+    "uptime": "93.14%",
+    "uptimeDay": "71.55%",
+    "uptimeWeek": "95.94%",
+    "uptimeMonth": "99.06%",
+    "uptimeYear": "99.68%",
     "time": 1608,
-    "timeDay": 633,
-    "timeWeek": 532,
-    "timeMonth": 541,
-    "timeYear": 1394,
+    "timeDay": 535,
+    "timeWeek": 520,
+    "timeMonth": 538,
+    "timeYear": 1392,
     "dailyMinutesDown": {
       "2025-07-16": 76,
       "2025-07-21": 43,
@@ -130,7 +130,7 @@
       "2025-12-29": 18,
       "2026-02-05": 42,
       "2026-04-02": 58,
-      "2026-07-11": 366
+      "2026-07-11": 410
     }
   },
   {

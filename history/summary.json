@@ -27,17 +27,17 @@
     "url": "https://v.joylian.com",
     "icon": "https://icons.duckduckgo.com/ip3/v.joylian.com.ico",
     "slug": "tvbox",
-    "status": "up",
+    "status": "down",
     "uptime": "99.39%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.36%",
-    "time": 3108,
-    "timeDay": 598,
-    "timeWeek": 560,
-    "timeMonth": 552,
-    "timeYear": 3299,
+    "time": 3166,
+    "timeDay": 19872,
+    "timeWeek": 5383,
+    "timeMonth": 1687,
+    "timeYear": 3366,
     "dailyMinutesDown": {
       "2025-09-08": 559,
       "2025-09-09": 39,
@@ -62,7 +62,8 @@
       "2026-04-10": 73,
       "2026-04-21": 133,
       "2026-07-11": 366,
-      "2026-08-19": 18
+      "2026-08-19": 18,
+      "2026-08-27": 2
     }
   },
   {
@@ -90,17 +91,17 @@
     "url": "https://pan.joylian.com",
     "icon": "https://icons.duckduckgo.com/ip3/pan.joylian.com.ico",
     "slug": "pan",
-    "status": "up",
+    "status": "down",
     "uptime": "93.46%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.75%",
-    "time": 1414,
-    "timeDay": 570,
-    "timeWeek": 533,
-    "timeMonth": 537,
-    "timeYear": 1166,
+    "time": 1448,
+    "timeDay": 19812,
+    "timeWeek": 5348,
+    "timeMonth": 1741,
+    "timeYear": 1260,
     "dailyMinutesDown": {
       "2025-09-08": 559,
       "2025-09-19": 23,
@@ -111,7 +112,8 @@
       "2025-12-29": 18,
       "2026-02-05": 42,
       "2026-04-02": 58,
-      "2026-07-11": 410
+      "2026-07-11": 410,
+      "2026-08-27": 0
     }
   },
   {

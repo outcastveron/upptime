@@ -27,17 +27,17 @@
     "url": "https://v.joylian.com",
     "icon": "https://icons.duckduckgo.com/ip3/v.joylian.com.ico",
     "slug": "tvbox",
-    "status": "down",
-    "uptime": "99.34%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.73%",
-    "uptimeYear": "99.47%",
+    "status": "up",
+    "uptime": "99.31%",
+    "uptimeDay": "81.07%",
+    "uptimeWeek": "97.30%",
+    "uptimeMonth": "98.10%",
+    "uptimeYear": "99.42%",
     "time": 3222,
-    "timeDay": 547,
-    "timeWeek": 541,
-    "timeMonth": 1647,
-    "timeYear": 1771,
+    "timeDay": 546,
+    "timeWeek": 542,
+    "timeMonth": 1617,
+    "timeYear": 1726,
     "dailyMinutesDown": {
       "2025-09-19": 25,
       "2025-09-30": 30,
@@ -58,7 +58,7 @@
       "2026-08-19": 18,
       "2026-08-28": 28,
       "2026-08-27": 511,
-      "2026-09-17": 0
+      "2026-09-17": 273
     }
   },
   {
